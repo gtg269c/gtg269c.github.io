@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
-title: Welcome to Amin's bioinformatics blog
-description: This blog describes use cases and challenges.
+title: Bioinformatics and data science blog
+description: This blog describes use cases and challenges in the field of genomics and lifesciences.
+minima:
+  social_links:
+    twitter: BioinformaticDS
+    github: gtg269c
+    linkedin: amin-momin
