@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+theme: minima
+#jekyll-theme-cayman
 title: Bioinformatics and data science blog
 description: This blog describes use cases and challenges in the field of genomics and lifesciences.
 minima:
