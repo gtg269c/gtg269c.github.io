@@ -1,6 +1,6 @@
-## Welcome to my page
+Thanks for visit my blog. Here I intend to share my knowledge about topics of interest in bioinformatics and data sciences. Having worked in both acedemics and the biopharma industry, I have seen bioinformatics transition from simple adhoc scripts to complete CICD production pipelines. This take greater importance as we use some of these assets in personlized therapy and clinical trials. Please connect with me via email or social media below.
 
-I appreciate you taking the time to visit by blog. Writing this chronicle has been a long term goal of mine. Through these article I wish to share my knowledge of bioinformatics and its resources. Having worked in acedemics and the biopharma industry I have seen bioinformatics transition from simple adhoc scripts to complete CICD pipelines for production and therapetutic process. Please connect with me via email or social media below.
+Some fun facts: I enjoy biking and the outdoors. 
 
 ### Follow me on 
 
